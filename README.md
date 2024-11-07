@@ -8,6 +8,7 @@ This website is a modern, responsive platform for a Saudi Arabian restaurant. It
 - Table booking form.
 - Customer testimonials.
 - Information about the dining experience.
+- Footer
   
 ## Features
 ### Home Page:
@@ -27,7 +28,7 @@ This website is a modern, responsive platform for a Saudi Arabian restaurant. It
 - A carousel showcasing customer feedback and experiences at the restaurant.
   
 ### About Us:
-- A section that highlights the restaurant’s story and dedication to providing authentic Saudi cuisine.
+- A section highlighting the restaurant’s story and dedication to providing authentic Saudi cuisine.
   
 ### Contact Information:
 - Includes address, phone number, and social media links for easy contact.
